@@ -11,9 +11,9 @@ body {
 }
 
 /* general */
-/* .navbar-extended{
+.navbar-extended{
   width: 100%
-} */
+}
 .container {
   width: 100%;
   max-width: 960px;

@@ -1,0 +1,9 @@
+.card-parent{
+  display: flex;
+  flex-wrap: wrap; 
+}
+
+.card-img-top{
+  height: 200px;
+  object-fit: contain;
+}
